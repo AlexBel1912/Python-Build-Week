@@ -8,7 +8,7 @@ L'obiettivo del progetto è stato l'analisi dei competitor nel settore delle cal
 - **Davide BUCCINO**  
 - **Sofia PESCI**  
 - **Daniele DE MAGISTRIS**
--  
+  
 L'obiettivo è fornire un'analisi approfondita dei competitor nel settore delle calzature sportive, con particolare attenzione a prezzi e tipologie di prodotti.
 
 ## 📌 Contenuto del Repository  
