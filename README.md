@@ -4,9 +4,9 @@ Questo repository contiene un'analisi del settore calzature realizzata durante l
 L'obiettivo del progetto è stato l'analisi dei competitor nel settore delle calzature sportive, utilizzando tecniche di **Web Scraping**, **Pandas** e **visualizzazione dati** con **Matplotlib** e **Seaborn**.  
 
 ## 👥 Collaboratori  
-- **Alexandra BELACURENCU**  
-- **Davide BUCCINO**  
 - **Sofia PESCI**  
+- **Davide BUCCINO**  
+- **Alexandra BELACURENCU**  
 - **Daniele DE MAGISTRIS**
   
 L'obiettivo è fornire un'analisi approfondita dei competitor nel settore delle calzature sportive, con particolare attenzione a prezzi e tipologie di prodotti.
